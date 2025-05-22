@@ -87,8 +87,8 @@
     <p>Piyas Fashion একটি বিশ্বস্ত অনলাইন দোকান যেখানে ছেলেদের জন্য বিভিন্ন রকমের মানসম্পন্ন ও ট্রেন্ডি পোশাক পাওয়া যায়। আমরা সাশ্রয়ী মূল্যে মান বজায় রেখে পণ্য সরবরাহ করি।</p>
   </section>  <section id="contact">
     <h2>যোগাযোগ করুন</h2>
-    <p>ফোন: ০১XXXXXXXXX</p>
-    <p>ইমেইল: info@piyasfashion.com</p>
+    <p>ফোন: 01308957047</p>
+    <p>ইমেইল: mdpiyasshak9@gmail.com</p>
     <p>Facebook: <a href="https://facebook.com/piyasfashion" target="_blank">piyasfashion</a></p>
   </section>  <footer>
     <p>&copy; 2025 Piyas Fashion. সর্বস্বত্ব সংরক্ষিত।</p>
