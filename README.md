@@ -89,8 +89,7 @@
     <h2>যোগাযোগ করুন</h2>
     <p>ফোন: 01308957047</p>
     <p>ইমেইল: mdpiyasshak9@gmail.com</p>
-    <p>Facebook: <a href="https://facebook.com/piyasfashion" target="_blank">piyasfashion</a></p>
-  </section>  <footer>
+    <p>Facebook: <a https://www.facebook.com/share/19e17jJzmU/
     <p>&copy; 2025 Piyas Fashion. সর্বস্বত্ব সংরক্ষিত।</p>
   </footer>
 </body>
